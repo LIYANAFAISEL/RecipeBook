@@ -4,6 +4,7 @@ global using Recipes.Dtos.Recipe;
 global using Microsoft.EntityFrameworkCore;
 global using Recipes.Data;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
